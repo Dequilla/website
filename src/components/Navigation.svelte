@@ -6,10 +6,10 @@
     <img id="logotype" src="images/signatur-2021-08-white.png"/>
     <div id="right-side">
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Gallery</a></li>
-            <li><a href="#">My Gear</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#/">Home</a></li>
+            <li><a href="#/gallery">Gallery</a></li>
+            <li><a href="#/mygear">My Gear</a></li>
+            <li><a href="#/contact">Contact</a></li>
         </ul>
         <ul>
             <li><a href="https://www.instagram.com/wallinedwin/" target="_blank"><i class="fab fa-instagram"></i></a></li>
@@ -23,6 +23,8 @@
     nav {
         width: 100%;
         font-size: 1.4em;
+        display: inline-block;
+        text-align: left;
     }
 
     a, a:visited {
