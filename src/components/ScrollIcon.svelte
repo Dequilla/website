@@ -26,25 +26,33 @@
 
     @keyframes flickerAnimation {
         0%   { opacity:1; }
+        25%   { opacity:1; }
         50%  { opacity:0; }
+        75% { opacity:1; }
         100% { opacity:1; }
     }
 
     @-o-keyframes flickerAnimation{
         0%   { opacity:1; }
+        25%   { opacity:1; }
         50%  { opacity:0; }
+        75% { opacity:1; }
         100% { opacity:1; }
     }
 
     @-moz-keyframes flickerAnimation{
         0%   { opacity:1; }
+        25%   { opacity:1; }
         50%  { opacity:0; }
+        75% { opacity:1; }
         100% { opacity:1; }
     }
 
     @-webkit-keyframes flickerAnimation{
         0%   { opacity:1; }
+        25%   { opacity:1; }
         50%  { opacity:0; }
+        75% { opacity:1; }
         100% { opacity:1; }
     }
 

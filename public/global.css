@@ -1,13 +1,15 @@
 .title {
-	font-family: "Fredericka the Great", sans-serif;
+	font-family: Playfair Display,  sans-serif;
 	font-weight: 400;
 	margin: 0.4em;
+	letter-spacing: .8rem;
 }
 
 .sub-title {
-	font-family: "Poiret One", sans-serif;
-	font-weight: 400;
-	margin: 0.4em;
+	font-family: Playfair Display, sans-serif;
+	font-weight: 100;
+	margin: 0.4em;+
+	letter-spacing: .3rem;
 }
 
 body {
