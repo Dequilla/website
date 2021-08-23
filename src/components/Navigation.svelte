@@ -23,6 +23,7 @@
     nav {
         width: 100%;
         font-size: 1.4em;
+        font-weight: 00;
         display: inline-block;
         text-align: left;
     }
