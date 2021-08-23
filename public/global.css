@@ -1,0 +1,20 @@
+.title {
+	font-family: "Fredericka the Great", sans-serif;
+	font-weight: 400;
+	margin: 0.4em;
+}
+
+.sub-title {
+	font-family: "Poiret One", sans-serif;
+	font-weight: 400;
+	margin: 0.4em;
+}
+
+body {
+	color: #fff;
+	font-family: Poiret One, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+a:hover {
+	text-decoration: underline;
+}
