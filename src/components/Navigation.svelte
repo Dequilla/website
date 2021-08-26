@@ -32,22 +32,22 @@
         text-decoration: none;
         padding: 0.6em;
 
-        -webkit-transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
-        -moz-transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
-        -o-transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
-        -ms-transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
-        transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
+        -webkit-transition: border-color 500ms ease, opacity 500ms ease;
+        -moz-transition: border-color 500ms ease, opacity 500ms ease;
+        -o-transition: border-color 500ms ease, opacity 500ms ease;
+        -ms-transition: border-color 500ms ease, opacity 500ms ease;
+        transition: border-color 500ms ease, opacity 500ms ease;
 
         border-bottom: 1px solid rgb(255, 255, 255, 0);
         color: #FFF;
     }
 
     a:hover {
-        -webkit-transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
-        -moz-transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
-        -o-transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
-        -ms-transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
-        transition: border-color 500ms ease, opacity 500ms ease, text-shadow 500ms ease;
+        -webkit-transition: border-color 500ms ease, opacity 500ms ease;
+        -moz-transition: border-color 500ms ease, opacity 500ms ease;
+        -o-transition: border-color 500ms ease, opacity 500ms ease;
+        -ms-transition: border-color 500ms ease, opacity 500ms ease;
+        transition: border-color 500ms ease, opacity 500ms ease;
 
         border-color: #FFF;
         opacity: 0.4;

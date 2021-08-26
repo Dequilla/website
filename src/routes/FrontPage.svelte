@@ -4,11 +4,11 @@
 </script>
 
 <div>
-	<section id="section-one">
+	<section id="section-one" class="fadein">
 		<Navigation></Navigation>
-		<img id="forest" src="images/nature-test-white.png"/>
-		<h1 class="title">Edwin Wallin</h1>
-		<h2 class="sub-title">Nature and wildlife</h2>
+		<img class="fadein delay" id="forest" src="images/nature-test-white.png"/>
+		<h1 class="fadein delay title">Edwin Wallin</h1>
+		<h2 class="fadein delay sub-title">Nature and wildlife</h2>
 		<div id="scroll"><ScrollIcon></ScrollIcon></div>
 	</section>
 	<section id="section-two">
@@ -18,10 +18,6 @@
 
 
 <style>
-	div {
-		
-	}
-
 	section {
 		width: 100%;
 		display: inline-block;
